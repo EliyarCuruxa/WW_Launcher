@@ -1,1 +1,4 @@
-TEST NEWS;Welcome to the new Launcher!;NO.png
+TEST NEWS;Welcome to the new Launcher!;NO.png|
+TEST NEWS 1;Welcome to the new Launcher!;NO.png|
+TEST NEWS 2;Welcome to the new Launcher!;NO.png|
+TEST NEWS 3;Welcome to the new Launcher!;NO.png|
