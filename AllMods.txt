@@ -1,9 +1,4 @@
-DD:Death's Door:Death's Door:0:#:1
-HK:Hollow Knight:Hollow Knight:0:#:1
-ORIDE:Ori and the Blind Forest:Ori and the Blind Forest:0:#:1
-COTL:Cult of the Lamb:Cult of the Lamb:0:#:1
-INSC:Inscryption:Inscryption:0:Steamworks.NET.dll:1
-ORIWOTW:Ori and the Will of the Wisps:Ori and the Will of the Wisps:1:#:1
-FARLS:FAR Lone Sails:FAR Lone Sails:1:#:1
+INSC:Inscryption:Inscryption:1:Steamworks.NET.dll:1:Inscryption:1092790
 
-#CODE:NAME:Description:Type:files:version
+
+#CODE:NAME:Description:Type:files:version:main_exe:app_id
