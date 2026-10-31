@@ -1,4 +1,4 @@
-INSC|Inscryption|Inscryption|1|Steamworks.NET.dll|1|Inscryption|1092790
+INSC|Inscryption|Inscryption|1|Steamworks.NET.dll|2|Inscryption|1092790
 
 
 #CODE:NAME:Description:Type:files:version:main_exe:app_id
